@@ -3,7 +3,7 @@ Protected Species Data Interchange Standard
 
 ## Abstract
 
-The Protected Species GeoJSON Standard is a geospatial data interchange format that extends GeoJSON [[RFC7946](<https://datatracker.ietf.org/doc/html/rfc7946>)] to support sharing and dissemination of data specific to operations (including but not limited to legal compliance and mitigation), and research around protected animal species. Typical data includes information about whales, dolphins, pinnipeds, sea turtles, polar bears, fisheries, avian, and terrestrial animals. Meta-data formats are  also specified, including information about observational effort, mitigation actions, behavioral observations, vehicle tracks, and a the types/methods of animal detections, and observation technology used.
+The Protected Species Data Interchange Standard is a geospatial data format that extends GeoJSON [[RFC7946](<https://datatracker.ietf.org/doc/html/rfc7946>)] to support sharing and dissemination of data specific to operations (including but not limited to legal compliance and mitigation), and research around protected animal species. Typical data includes information about whales, dolphins, pinnipeds, sea turtles, polar bears, fisheries, avian, and terrestrial animals. Meta-data formats are  also specified, including information about observational effort, mitigation actions, behavioral observations, vehicle tracks, and a the types/methods of animal detections, and observation technology used.
 
 ## Status 
 
