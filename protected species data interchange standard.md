@@ -210,7 +210,8 @@ Localized animal detections are implemented as a GeoJSON *Point* object. For exa
     },
 
     // Required and optional properties to specify items unique to protected species interactions
-    "properties": { 
+    "properties": {
+        "record_id" : "C6986655-D0B8-4B02-93BA-B79F5E03A253",
         // ... 
     },
     // ...
@@ -307,5 +308,6 @@ TODO
 TODO
 
 #### Example
+
 
 TODO
