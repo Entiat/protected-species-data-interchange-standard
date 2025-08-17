@@ -223,7 +223,7 @@ Localized animal detections are implemented as a GeoJSON *Point* object. For exa
 | Name | Type | Description | Examples |
 |------|------|-------------|---------|
 | record_id | string | A unique identifier for this record. | "C6986655-D0B8-4B02-93BA-B79F5E03A253" |
-| species_latin | string | Latin name of the detected animal(s). If not known to species level, can be "(genus) sp.". Unknown values are represented via the English word "Unidentified", which may have a qualifier | "Balaena mysticetus"<br>"Balaena sp."<br>"Unidentified"  |
+| species_latin | string | Latin name of the detected animal(s). If not known to species level, can be "(genus) sp.". Unknown values are represented via the English word "Unidentified", which may have a qualifier | "Balaena mysticetus"<br>"Balaena sp."<br>"Unidentified"<br>"Unidentified delphinidae" |
 | timestamp_utc | string | The UTC timestamp of this detection event. | "20250801T12:34:56.34773Z" |
 | source | sub-tree | Information about the source of this detection. | "source" : {...} |
 | source.name | string | Name of the source of this data. | "source" : { ..., "name" : "Mysticetus" ... } |
@@ -311,3 +311,4 @@ TODO
 
 
 TODO
+
